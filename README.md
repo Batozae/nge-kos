@@ -1,6 +1,6 @@
 # Nge-Kos
 
-Aplikasi Flutter pencari kost (peran Pencari Kos dan Pemilik Kos). Mata kuliah Pemrograman Aplikasi Mobile.
+Aplikasi Flutter pencari kost. Mata kuliah Pemrograman Aplikasi Mobile.
 
 ## Repositori terkait
 
